@@ -8,8 +8,8 @@ Welcome to my **1-Year Combined Repository**, where I've compiled five small pro
 A simple **brick breaker** game where you control a paddle to break bricks using a bouncing ball.
 
 - **Technologies Used:** HTML, CSS, JavaScript, Canvas API
-- **Live Demo:** [Bricks Game](https://example.com/bricks-game)
-- **Source Code:** [GitHub Link](https://github.com/your-repo/bricks-game)
+- **Live Demo:** [Bricks Game](https://oneyearprojects.onrender.com/)
+- **Source Code:** [GitHub Link](https://github.com/shadabali-git/1YearProjects/tree/main/BricksGameFirstJs)
 
 ---
 
