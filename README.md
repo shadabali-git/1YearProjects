@@ -17,8 +17,8 @@ A simple **brick breaker** game where you control a paddle to break bricks using
 A secure **password generator** that allows users to generate random passwords with custom criteria (length, symbols, numbers, etc.).
 
 - **Technologies Used:** HTML, CSS, JavaScript
-- **Live Demo:** [Password Generator](https://example.com/password-generator)
-- **Source Code:** [GitHub Link](https://github.com/your-repo/password-generator)
+- **Live Demo:** [Password Generator](https://passwordgenerator-6vzi.onrender.com/)
+- **Source Code:** [GitHub Link](https://github.com/shadabali-git/1YearProjects/tree/main/PasswordGenerator)
 
 ---
 
@@ -26,8 +26,8 @@ A secure **password generator** that allows users to generate random passwords w
 A fully functional **stopwatch** with start, stop, and reset functionalities.
 
 - **Technologies Used:** HTML, CSS, JavaScript
-- **Live Demo:** [Stopwatch](https://example.com/stopwatch)
-- **Source Code:** [GitHub Link](https://github.com/your-repo/stopwatch)
+- **Live Demo:** [Stopwatch](https://stopwatch-99d7.onrender.com/)
+- **Source Code:** [GitHub Link](https://github.com/shadabali-git/1YearProjects/tree/main/Stopwatch)
 
 ---
 
@@ -35,8 +35,8 @@ A fully functional **stopwatch** with start, stop, and reset functionalities.
 A classic **Tic-Tac-Toe** game where two players can compete against each other.
 
 - **Technologies Used:** HTML, CSS, JavaScript
-- **Live Demo:** [Tic-Tac-Toe](https://example.com/tic-tac-toe)
-- **Source Code:** [GitHub Link](https://github.com/your-repo/tic-tac-toe)
+- **Live Demo:** [Tic-Tac-Toe](https://tictaktoe-5zpg.onrender.com/)
+- **Source Code:** [GitHub Link](https://github.com/shadabali-git/1YearProjects/tree/main/TICTAKTOE)
 
 ---
 
@@ -44,8 +44,8 @@ A classic **Tic-Tac-Toe** game where two players can compete against each other.
 A fun **typing speed test** application to measure words per minute (WPM) and accuracy.
 
 - **Technologies Used:** HTML, CSS, JavaScript
-- **Live Demo:** [Typing Test](https://example.com/typing-test)
-- **Source Code:** [GitHub Link](https://github.com/your-repo/typing-test)
+- **Live Demo:** [Typing Test](https://typingtest-5ecf.onrender.com)
+- **Source Code:** [GitHub Link](https://github.com/shadabali-git/1YearProjects/tree/main/TypingTest)
 
 ---
 
@@ -53,13 +53,13 @@ A fun **typing speed test** application to measure words per minute (WPM) and ac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/1year-combined-projects.git
+   git clone https://github.com/shadabali-git/1YearProjects/
    ```
 2. Navigate to a project folder:
    ```bash
-   cd bricks-game  # Example
+   cd any porject  # Example
    ```
-3. Open `index.html` in your browser.
+3. Open `index.html or App.JSX` in your browser.
 
 ---
 
@@ -69,10 +69,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 🔗 Connect with Me
-- **GitHub:** [Your GitHub](https://github.com/your-profile)
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)
+- **GitHub:** [Your GitHub](https://github.com/shadabali-git)
 
----
-
-Feel free to update the **deployment links** and **GitHub links** accordingly! 🚀
+Feel free to update the **changes accepting pull requests ** and **Merge Also ** accordingly! 🚀
 
